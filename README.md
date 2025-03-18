@@ -1,5 +1,4 @@
 
-https://img.shields.io/badge/Amigo_Secreto-purple
 ![NPM Version](https://img.shields.io/npm/v/javascript?style=flat-square&color=green)
 ![Amigo Secreto da Cyrix.Tec](https://github.com/user-attachments/assets/c452b546-bdc3-40b4-b86e-901f3cb4313e)
 
