@@ -1,6 +1,6 @@
 
-![Static Badge Pimeira Fase Concluída](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FSergioCarmo-ro%2Famigo-secreto.git)
-
+https://img.shields.io/badge/Amigo_Secreto-purple
+![NPM Version](https://img.shields.io/npm/v/javascript?style=flat-square&color=green)
 ![Amigo Secreto da Cyrix.Tec](https://github.com/user-attachments/assets/c452b546-bdc3-40b4-b86e-901f3cb4313e)
 
 <h1 align="center"> Amigo Secreto Cyrix.Tec </h1>
